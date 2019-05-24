@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Lost and Found</string>
     <string name="title_crime_activity">Crime Activity</string>
-    <string name="crime_title_hint">Enter a title for the crime.</string>
-    <string name="crime_title_label">Title</string>
+    <string name="crime_title_hint">Enter your lost or found query!</string>
+    <string name="crime_title_label">Lost Item Title</string>
     <string name="crime_details_label">Details</string>
-    <string name="crime_solved_label">Solved?</string>
+    <string name="crime_solved_label">Found?</string>
     <string name="crimes_title">Crimes</string>
     <string name="date_picker_title">Data of Crime:</string>
     <string name="new_crime">New Crime</string>
@@ -14,4 +14,6 @@
     <string name="delete_crime">Delete</string>
     <string name="take">Take!</string>
     <string name="title_activity_maps">Map</string>
+    <string name="title_phone">Contact Number</string>
+    <string name="phone_hint">Enter your contact number!</string>
 </resources>
