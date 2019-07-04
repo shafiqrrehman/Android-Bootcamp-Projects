@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128972683826",
+    "firebase_url": "https://flashgroupchatandroid.firebaseio.com",
+    "project_id": "flashgroupchatandroid",
+    "storage_bucket": "flashgroupchatandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128972683826:android:ed106f2f18eb17a3",
+        "android_client_info": {
+          "package_name": "com.shafiq.flashgroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128972683826-e6qtqks9vid49hkfmq0kklqkqoc4mm32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEG5L7jVO7JJ5hXDR6Z_YlPJXeSbmwk28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128972683826-e6qtqks9vid49hkfmq0kklqkqoc4mm32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
